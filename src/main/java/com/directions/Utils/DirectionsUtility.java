@@ -1,4 +1,4 @@
-package com.directions.Utils;
+package com.directions.utils;
 
 import com.directions.domain.LatLng;
 import com.google.maps.internal.PolylineEncoding;

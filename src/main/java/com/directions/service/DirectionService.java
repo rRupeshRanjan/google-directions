@@ -1,6 +1,6 @@
 package com.directions.service;
 
-import com.directions.Utils.DirectionsUtility;
+import com.directions.utils.DirectionsUtility;
 import com.directions.domain.GoogleApiResponse;
 import com.directions.domain.LatLng;
 import com.directions.domain.Route;
