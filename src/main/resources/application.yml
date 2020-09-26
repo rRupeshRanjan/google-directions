@@ -1,0 +1,5 @@
+google.directions.url: "https://maps.googleapis.com/maps/api/directions/json?origin={0}&destination={1}&key={2}"
+google.directions.key:
+
+server.port: 8080
+server.servlet.context-path: /
